@@ -9,7 +9,7 @@
 ## 📂 Содержание
 
 ### 🔹 Manual Testing
-- [✔️ Checklists](Manual-Testing/Checklists/login_form_checklist.xlsx)  
+- [✔️ Checklists]((https://github.com/GooseGeneral/QA-/blob/main/Manual-Testing/Checklists/login_form_checklist.xlsx
 - [🧪 Test Cases](Manual-Testing/Test-Cases/registration_test_case.xlsx)  
 - [🐞 Bug Reports](Manual-Testing/Bug-Reports/bug_report_example.pdf)  
 - [📑 Test Plan](Manual-Testing/Test-Plan/test_plan_demo_app.docx)  
