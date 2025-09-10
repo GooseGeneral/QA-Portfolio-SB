@@ -19,5 +19,5 @@
 - [Test Plan Demo App](Manual-Testing/Test-Plan/testplan.demo.app.docx)
 
 ### 📊 Test Report
-- [Test Report Demo App](Manual-Testing/Test-Report/testrepor.demo.app.pdf)
+- [Test Report Demo App](Manual-Testing/Test-Report/testreport.demo.app.pdf)
 
