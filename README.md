@@ -8,7 +8,7 @@
 ### Checklists
 - [Login Checklist](Manual-Testing/Checklists/login_checklist.xlsx)
 - [Registration Checklist](Manual-Testing/Checklists/registration_checklist.xlsx)
-
+- [cart_checkout_checklist](Manual-Testing/Checklists/cart_checkout_checklist.xlsx
 ### Test Cases
 - [Test Cases ](Manual-Testing/Test-Cases/test_cases.xlsx)
 
